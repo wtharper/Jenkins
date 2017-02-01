@@ -1,4 +1,4 @@
-package ca.uwo.csd.cs2212.USERNAME;
+package JenkinsPractice;
 
 public class BankAccount {
 
