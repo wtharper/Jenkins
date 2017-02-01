@@ -1,10 +1,10 @@
-package JenkinsPractice;
+package Bank;
 
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
-public class TestBankAccount {
+public class BankAccountTest {
 
 	@Test
 	public void testDebitWithSufficientFunds(){

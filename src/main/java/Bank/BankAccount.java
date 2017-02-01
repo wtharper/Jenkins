@@ -1,4 +1,4 @@
-package JenkinsPractice;
+package Bank;
 
 public class BankAccount {
 
