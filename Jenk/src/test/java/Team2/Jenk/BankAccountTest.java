@@ -1,6 +1,5 @@
 package Team2.Jenk;
 import org.junit.Assert;
-import org.junit.Before;
 import org.junit.Test;
 
 public class BankAccountTest 
